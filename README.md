@@ -8,3 +8,4 @@ PRDs and related documentation will be that of an imaginary Product, and nothing
 Contents:
 =====================================================================================
 1. Product Teardown report        |       Terribly Tiny Tales Academy - Web Platform
+   Notion: https://lapis-metal-757.notion.site/Product-Teardown-TTT-ACADEMY-391dcd013f9d45c69ff53a9d42ce70da?pvs=4
