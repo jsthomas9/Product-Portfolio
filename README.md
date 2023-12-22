@@ -11,7 +11,11 @@ PRDs and related documentation will be that of an imaginary Product, and nothing
 ===========================================================================================================================
 
 Contents:
-=====================================================================================
-1. Product Teardown report        |       Terribly Tiny Tales Academy - Web Platform
+===========================================================================================================================
+1. Product Teardown Report        |       Terribly Tiny Tales Academy - Web Platform
    
 Teardown Notion page: https://lapis-metal-757.notion.site/Product-Teardown-TTT-ACADEMY-391dcd013f9d45c69ff53a9d42ce70da?pvs=4
+
+2. Product Requirement Document	  |	  Sage Tokenizer - Web Platform
+
+PRD Notion page: https://lapis-metal-757.notion.site/Product-Requirement-Document-Sage-Tokenizer-2e16da8cb4fa4b8a948916097d0dbbc9?pvs=4
