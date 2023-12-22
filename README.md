@@ -3,6 +3,7 @@ GM! GM! GM!
 This repository includes a portfolio of different Product Management documents.
 
 If the PDF is not loading with an 'Unable to render code block' error, try clearing your browser cache and view again.
+If the error still pops up, please visit the notion site from the link under Contents.
 
 Most documents are made as part of Product hiring assignments, and doesn't represent a full-scale Product Document.
 
